@@ -141,6 +141,7 @@ function init() {
   serchView.addHandlerSearch(controlSerchResult);
   paginationView.addHandlerClick(controllPagination);
   addRecipe.addHandlerUpload(controlAddRecipe);
-  console.log(`hello git`);
+  let x = 1;
+  console.log(x);
 }
 init();
