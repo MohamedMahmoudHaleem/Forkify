@@ -141,7 +141,6 @@ function init() {
   serchView.addHandlerSearch(controlSerchResult);
   paginationView.addHandlerClick(controllPagination);
   addRecipe.addHandlerUpload(controlAddRecipe);
-  let x = 1;
-  console.log(x);
+  alert('HACKED');
 }
 init();
