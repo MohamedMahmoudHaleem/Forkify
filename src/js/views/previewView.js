@@ -1,5 +1,5 @@
 import icons from 'url:../../img/icons.svg'; // new method to import images and url in parcel .
-import { Fraction } from 'fractional';
+
 import View from './view';
 class PreviewView extends View {
   _parentElement = '';
